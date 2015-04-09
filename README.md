@@ -1,18 +1,23 @@
 Solarized Colorscheme for IntelliJ IDEA
 =======================================
 
-Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com>  
+Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com>
 
-Adapted for IntelliJ IDEA by:  
-Adam Vandenberg <flangy@gmail.com>  
+Adapted for IntelliJ IDEA by:
+Adam Vandenberg <flangy@gmail.com>
 Johan Kaving <johan@kaving.se>
+G. Richard Bellamy <rbellamy@pteradigm.com>
+
+Modified for darker background tones:
+base03 - BACKGROUND       - 002b36 => 2b2b2b
+base02 - BACKGROUND-LIGHT - 073642 => 3a3a3a
 
 Visit the [Solarized homepage]
 ------------------------------
 
-See the [Solarized homepage] for screenshots, 
-details and color scheme versions for Vim, Mutt, popular terminal emulators and 
-other applications. These versions can also be found in the main [Solarized repository] 
+See the [Solarized homepage] for screenshots,
+details and color scheme versions for Vim, Mutt, popular terminal emulators and
+other applications. These versions can also be found in the main [Solarized repository]
 on GitHub.
 
 Unfortunately the IntelliJ subtree in the main repository has not been updated and is out-of-sync with this
@@ -20,9 +25,9 @@ repository.
 
 For IntelliJ this [IntelliJ-only repository] is therefore recommended over the main repository.
 
-[Solarized homepage]:   http://ethanschoonover.com/solarized
-[Solarized repository]: https://github.com/altercation/solarized
-[IntelliJ-only repository]:  https://github.com/jkaving/intellij-colors-solarized
+[Solarized homepage]:      http://ethanschoonover.com/solarized
+[Solarized repository]:    https://github.com/altercation/solarized
+[IntelliJ-only repository]:https://github.com/rbellamy/intellij-solarized-syntax
 
 Status
 ------------
@@ -342,10 +347,10 @@ color themes.
 
     *Windows*
     * `%USERPROFILE%/.IdeaIC13/config/colors` (IntelliJ IDEA 13 Community Edition)
-        
+
 2. Restart IntelliJ IDEA
 
-3. Go to `Preferences | Editor | Colors & Fonts` and select one of the new 
+3. Go to `Preferences | Editor | Colors & Fonts` and select one of the new
 color themes.
 
 Darcula
@@ -368,5 +373,5 @@ after adding the color schemes to your IntelliJ IDEA installation.
 Note About Committing Changes
 -----------------------------
 If you want to commit updates to the XML color scheme files, make sure to run the `buildjar.sh` script before committing to generate
-an updated `settings.jar` file as well. 
-*The script has been tested on OS X, on other operating systems you're on your own.*
+an updated `settings.jar` file as well.
+*The script has been tested on OS X and Linux, on other operating systems you're on your own.*

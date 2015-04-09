@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="Solarized Dark" version="1" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
     <option name="CARET_COLOR" value="dc322f" />
-    <option name="CARET_ROW_COLOR" value="73642" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
-    <option name="GUTTER_BACKGROUND" value="73642" />
-    <option name="INDENT_GUIDE" value="73642" />
+    <option name="CARET_ROW_COLOR" value="3a3a3a" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2b2b2b" />
+    <option name="GUTTER_BACKGROUND" value="3a3a3a" />
+    <option name="INDENT_GUIDE" value="3a3a3a" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
-    <option name="METHOD_SEPARATORS_COLOR" value="73642" />
+    <option name="METHOD_SEPARATORS_COLOR" value="3a3a3a" />
     <option name="MODIFIED_LINES_COLOR" value="99ccff" />
     <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
-    <option name="RIGHT_MARGIN_COLOR" value="73642" />
+    <option name="RIGHT_MARGIN_COLOR" value="3a3a3a" />
     <option name="SELECTED_INDENT_GUIDE" value="586e75" />
     <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
     <option name="SELECTION_BACKGROUND" value="657b83" />
-    <option name="SELECTION_FOREGROUND" value="2b36" />
+    <option name="SELECTION_FOREGROUND" value="2b2b2b" />
     <option name="TEARLINE_COLOR" value="586e75" />
     <option name="WHITESPACES" value="586e75" />
   </colors>
@@ -171,7 +179,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="BUILDOUT.KEY">
@@ -211,7 +219,7 @@
     </option>
     <option name="COFFEESCRIPT.BAD_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="73642" />
+        <option name="FOREGROUND" value="3a3a3a" />
         <option name="BACKGROUND" value="d33682" />
       </value>
     </option>
@@ -250,7 +258,7 @@
     </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="COFFEESCRIPT.FUNCTION">
@@ -665,7 +673,7 @@
     </option>
     <option name="DART.BADCHARACTER">
       <value>
-        <option name="FOREGROUND" value="2b36" />
+        <option name="FOREGROUND" value="2b2b2b" />
         <option name="BACKGROUND" value="d33682" />
       </value>
     </option>
@@ -820,7 +828,7 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -831,7 +839,7 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1026,7 +1034,7 @@
     </option>
     <option name="EL_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="ENUM_CONST">
@@ -1051,7 +1059,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1186,7 +1194,7 @@
     <option name="HAML_FILTER_CONTENT">
       <value>
         <option name="FOREGROUND" value="93a1a1" />
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="HAML_ID">
@@ -1280,7 +1288,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -1517,7 +1525,7 @@
     </option>
     <option name="JS.DOC_MARKUP">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="JS.DOC_TAG">
@@ -1765,7 +1773,7 @@
     <option name="LESS_INJECTED_CODE">
       <value>
         <option name="FOREGROUND" value="2aa198" />
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="LESS_JS_CODE_DELIM">
@@ -1906,7 +1914,7 @@
     <option name="LUA_LONGCOMMENT_BRACES">
       <value>
         <option name="FOREGROUND" value="586e75" />
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1917,7 +1925,7 @@
     </option>
     <option name="LUA_LONGSTRING_BRACES">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="LUA_LUADOC">
@@ -1959,7 +1967,7 @@
     <option name="LUA_UPVAL">
       <value>
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="73642" />
+        <option name="EFFECT_COLOR" value="3a3a3a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2017,7 +2025,7 @@
     </option>
     <option name="MAKO.SUBSTITUTION">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -2040,7 +2048,7 @@
     </option>
     <option name="MARKDOWN.BLOCK_QUOTE">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -2100,7 +2108,7 @@
     </option>
     <option name="MARKDOWN.HRULE">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
@@ -2131,7 +2139,7 @@
     </option>
     <option name="MARKDOWN.QUOTE">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -2143,19 +2151,19 @@
     </option>
     <option name="MARKDOWN.TABLE">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MARKDOWN.VERBATIM">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2b36" />
+        <option name="FOREGROUND" value="2b2b2b" />
         <option name="BACKGROUND" value="859900" />
       </value>
     </option>
@@ -2682,20 +2690,20 @@
     </option>
     <option name="REST.FIXED">
       <value>
-        <option name="FOREGROUND" value="73642" />
+        <option name="FOREGROUND" value="3a3a3a" />
         <option name="BACKGROUND" value="839496" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="REST.INLINE">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="REST.INTERPRETED">
       <value>
-        <option name="FOREGROUND" value="73642" />
+        <option name="FOREGROUND" value="3a3a3a" />
         <option name="BACKGROUND" value="b58900" />
         <option name="EFFECT_TYPE" value="-1" />
       </value>
@@ -2920,7 +2928,7 @@
     </option>
     <option name="SMARTY_IDENTIFIER">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="SOY.BAD">
@@ -2950,7 +2958,7 @@
     </option>
     <option name="SOY.IGNORE">
       <value>
-        <option name="FOREGROUND" value="73642" />
+        <option name="FOREGROUND" value="3a3a3a" />
         <option name="BACKGROUND" value="d33682" />
       </value>
     </option>
@@ -3273,7 +3281,7 @@
     <option name="ScalaDoc comment tag">
       <value>
         <option name="FOREGROUND" value="859900" />
-        <option name="EFFECT_COLOR" value="73642" />
+        <option name="EFFECT_COLOR" value="3a3a3a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3341,7 +3349,7 @@
     </option>
     <option name="TEA.SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="TEA.SCRIPTING_FOREGROUND">
@@ -3371,7 +3379,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="839496" />
-        <option name="BACKGROUND" value="2b36" />
+        <option name="BACKGROUND" value="2b2b2b" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -3481,7 +3489,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2b36" />
+        <option name="FOREGROUND" value="2b2b2b" />
         <option name="BACKGROUND" value="dc322f" />
       </value>
     </option>
@@ -3633,7 +3641,7 @@
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="BACKGROUND" value="73642" />
+        <option name="BACKGROUND" value="3a3a3a" />
       </value>
     </option>
     <option name="YAML_SCALAR_STRING">
@@ -3760,4 +3768,3 @@
     </option>
   </attributes>
 </scheme>
-
