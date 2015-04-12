@@ -10,8 +10,8 @@ G. Richard Bellamy <rbellamy@pteradigm.com>
 
 Modified for darker background tones:
 ```
-base03 - BACKGROUND       - 002b36 => 2b2b2b
-base02 - BACKGROUND-LIGHT - 073642 => 3a3a3a
+base03 - BACKGROUND       - 002b36 => 121212
+base02 - BACKGROUND-LIGHT - 073642 => 222222
 ```
 Visit the [Solarized homepage]
 ------------------------------
